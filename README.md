@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictorYrotciV, an undergraduate from NKU
-- 👀 I’m interested in *Object Detection*, *Domain Adaptation*, and *Semi-Supervised Learning*
+- 👀 I’m interested in *Object Detection* and *Domain Adaptation*
 - 🌱 I’m currently learning DL, ML
 - 📫 My email is victoryaohz@gmail.com
 <!---
