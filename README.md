@@ -6,7 +6,8 @@
 
 I'm constantly working on transfer learning, domain adaptation, etc.. Feel free to contact me for collaboration opportunities in relative fields.
 
-**The team of Prof. Sicheng Zhao in Tsinghua University is constantly hiring undergraduate or graduate interns or visiting scholars. Undergraduates from universities such as Nankai University looking for [保研/出国] are highly welcomed. Please directly contact Prof. [Sicheng Zhao](https://sites.google.com/view/schzhao) for program details. You can also contact me to chat a little bit.**
+**The team of Prof. Sicheng Zhao in Tsinghua University is constantly hiring undergraduate or graduate interns or visiting scholars. Outstanding undergraduates from universities such as Nankai University looking for [保研/出国] are highly welcomed. **
+**Please directly contact Prof. [Sicheng Zhao](https://sites.google.com/view/schzhao) for program details. You can also contact me to chat a little bit.**
 
 <!---
 VictorYrotciV/VictorYrotciV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
